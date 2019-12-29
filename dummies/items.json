@@ -1,0 +1,18 @@
+[
+	{
+		"id": "id123434",
+		"name": "vinmec",
+		"category": "hospital",
+		"brand": "Vingroup",
+		"price": 6000000,
+		"website": "www.vinmec.com"
+	},
+	{
+		"id": "id120993",
+		"name": "Monitor 27inch",
+		"category": "monitor",
+		"brand": "Philips",
+		"price": 2700000,
+		"website": "www.philips.com"
+	}
+]
